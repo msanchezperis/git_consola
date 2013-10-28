@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+﻿import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.Scanner;
@@ -32,7 +32,7 @@ public class FraseGit {
 		//generem variables
 		frase = frase.toUpperCase();
 		String[] auxiliar = frase.split("");
-		String abecedari = "ABCÇDEFGHIJKLMNOPQRSTUVWXYZ";
+		String abecedari = "ABCÇDEFGHIJKLMNOPQRSTUVWXYZ1234567890";
 		String resultat = "";
 		ArrayList<Lletra> lletresArray = new ArrayList<Lletra>();
 		
