@@ -3,7 +3,12 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.Scanner;
-//comentari amb conflicte2public class FraseGit {
+<<<<<<< HEAD
+//comentari amb conflicte2
+=======
+//això portarà conflicte
+>>>>>>> 9f67ac6317e14db19f3fa74f5b2c791edb11477b
+public class FraseGit {
 
 	public static void main(String[] args) {
 		
