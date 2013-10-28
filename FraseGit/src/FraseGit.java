@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.Scanner;
-
+//comentari amb conflicte2
 public class FraseGit {
 
 	public static void main(String[] args) {
